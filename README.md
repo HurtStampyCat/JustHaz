@@ -1,0 +1,2 @@
+# JustHaz
+A Krunker Client
