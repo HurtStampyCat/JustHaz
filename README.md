@@ -1,2 +1,2 @@
-# JustHaz
+# Radioactive
 A Krunker Client
